@@ -1,11 +1,15 @@
-Welcome to Lumache's documentation!
+Welcome to SCIRES!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-Lumache has its documentation hosted on Read the Docs.
+---------
+Objective
+---------
+**SCIRES** (/sci'res/) is survey automation tool intended to assist interdisciplinary researchers to streamline
+the process of surveying research papers based on provided keywords by gathering scientific research papers
+that are relevant to their research survey. The tool automates various steps involved in the traditional manual process,
+enabling researchers to efficiently gather and categorize relevant research papers for their interdisciplinary studies.
+`SCIRES <https://sysrev.cs.binghamton.edu/scires>`_ can be accessed from any web browser that supports javascript.
+
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
@@ -14,10 +18,26 @@ how to :ref:`installation` the project.
 
    This project is under active development.
 
-Contents
---------
+.. toctree::
+   :hidden:
+   :caption: Tutorials
+   :name: tutorialtoc
+   :maxdepth: 10
+
+   tutorials/index
+   tutorials/account_setup
+   tutorials/first_project
+   tutorials/configure_categories
+   tutorials/draft_query
+   tutorials/execute_query
 
 .. toctree::
+   :hidden:
+   :caption: About
+   :name: abouttoc
+   :maxdepth: 10
 
-   usage
-   api
+   about/index
+   about/authors.rst
+   about/license.rst
+
