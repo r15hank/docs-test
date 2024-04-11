@@ -18,11 +18,26 @@ how to :ref:`installation` the project.
 
    This project is under active development.
 
-Contents
---------
+.. toctree::
+   :hidden:
+   :caption: Tutorials
+   :name: tutorialtoc
+   :maxdepth: 10
+
+   tutorials/index
+   tutorials/account_setup
+   tutorials/first_project
+   tutorials/configure_categories
+   tutorials/draft_query
+   tutorials/execute_query
 
 .. toctree::
+   :hidden:
+   :caption: About
+   :name: abouttoc
+   :maxdepth: 10
 
-   usage
-   api
-   tutorial
+   about/index
+   about/authors.rst
+   about/license.rst
+
