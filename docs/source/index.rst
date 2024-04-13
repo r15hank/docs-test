@@ -30,6 +30,11 @@ how to :ref:`installation` the project.
    tutorials/configure_categories
    tutorials/draft_query
    tutorials/execute_query
+   tutorials/manual_upload
+   tutorials/save_query
+   tutorials/curate_query
+   tutorials/additional_settings
+   tutorials/summary
 
 .. toctree::
    :hidden:
