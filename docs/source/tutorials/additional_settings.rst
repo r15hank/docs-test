@@ -22,7 +22,10 @@ from the project dashboard. This will allow you to update project name, its desc
 .. note::
    You can't delete the default category of your project (i.e. the first category you created while setting up this project)
    because by default this category will be the initial category for all your search results.
-   In case you want to get rid of this category, create a new category and perform a bulk actions on all the search results
-   across all queries that are using the old category and move them to the new category,
-   once the old category is unreferenced/no longer used by any results you can choose to delete it.
-   Hence it's important to design your categories while setting up your project.
+
+
+In case you want to get rid of this category, then create a new category and perform a bulk actions on all the search results
+across all queries that are using the old category and move them to the new category.
+Once the old category is unreferenced/no longer used by any results you can choose to delete it.
+
+Hence it's important to :doc:`design your categories </tutorials/configure_categories>` while setting up your project.

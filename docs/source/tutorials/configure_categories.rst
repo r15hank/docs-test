@@ -2,7 +2,7 @@ Configuring categories
 ~~~~~~~~~~~~~~~~~~~~~~
 Once you've setup your first project, click on the `project card` to open the project view.
 
-.. image:: /images/categories/project_initial_view.png
+.. image:: /images/tutorials/categories/project_initial_view.png
 .. role::  raw-html(raw)
     :format: html
 
@@ -22,10 +22,10 @@ Click on the blue :guilabel:`ADD` button to add a category and you can add as ma
 We will setup few categories as shown below as part of this tutorial.
 We can set specific colors and label to each category.
 
-.. image:: /images/categories/project_categories.png
+.. image:: /images/tutorials/categories/project_categories.png
 
 Upon creating them we need to individually save them by clicking on the :guilabel:`SAVE` button.
 Once the categories are saved, close the project category dialog box.
 This will enable the query panel, thus allowing us with the next steps to design and execute queries.
 
-.. image:: /images/categories/query_panel_initial.png
+.. image:: /images/tutorials/categories/query_panel_initial.png

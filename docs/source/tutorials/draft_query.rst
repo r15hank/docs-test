@@ -9,7 +9,7 @@ it is time to design and execute your queries.
 In order to create a query click on the :guilabel:`+` icon button on the query panel.
 This will create a query draft and you can see the card below the query panel
 
-.. image:: /images/queries/draft/query_draft_card.png
+.. image:: /images/tutorials/queries/draft/query_draft_card.png
 
 Click on the card to design the query, this will open the query dialog. Provide the following details:
 
@@ -40,7 +40,7 @@ we would need to use both `AND` and `OR` operator
 This can be easily design in query builder, to create group 1 simply click on the grey :guilabel:`+Group` button
 and to add keywords inside or outside group click on the blue :guilabel:`+Rule` button
 
-.. image:: /images/queries/draft/querybuilder.png
+.. image:: /images/tutorials/queries/draft/querybuilder.png
 
 Click on the blue :guilabel:`Use Query` button at the bottom right of the dialog box
 after you're done using the querybuilder to generate query text.

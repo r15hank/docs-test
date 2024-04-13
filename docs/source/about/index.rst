@@ -2,4 +2,4 @@
 About
 #####
 
-This section contains information about SCIRES project itself.
+This section contains information about SysReview project itself.
