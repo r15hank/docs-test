@@ -5,8 +5,7 @@ Now that you've created a draft query, in order to preview search results:
 1. Ensure you've added the query text manually or through querybuilder.
 2. Set a meaningful name to this query in the name textbox.
 3. Populate date range if necessary and select the checkbox if populated.
-4. Click on :guilabel:`+` button to add databases to your query,
-this will show you a dropdown containing the list of databases that are supported.
+4. Click on :guilabel:`+` button to add databases to your query, this will show you a dropdown containing the list of databases that are supported.
 
 .. image:: /images/tutorials/queries/execute/query_card_initial.png
 

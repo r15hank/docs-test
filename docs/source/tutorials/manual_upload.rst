@@ -32,7 +32,7 @@ then change the template type to :guilabel:`CUSTOM` and upload your configuratio
 .. image:: /images/tutorials/queries/manual/manual_upload_custom_template.png
 
 4. Now upload your prepared search results in a CSV formatted file.
-For this we can run a query on `PubMed https://pubmed.ncbi.nlm.nih.gov/?term=%27machine+learning%27+and+%27healthcare%27+and+%27blockchain%27&schema=alltitle`_
+For this we can run a query on `PubMed <https://pubmed.ncbi.nlm.nih.gov/?term=%27machine+learning%27+and+%27healthcare%27+and+%27blockchain%27&schema=alltitle>`_
 and export this result to CSV file and upload this file by clicking on the blue :guilabel:`Upload` button
 
 .. image:: /images/tutorials/queries/manual/manual_upload_pubmed.png

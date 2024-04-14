@@ -34,6 +34,7 @@ We need to identify the keywords for this query and divide them in groups:
 
 * Group 1: could contain 'machine learning' and 'healthcare'
 * Group 2: could contain just 'blockchain'
+
 To accommodate all the permutations of the keywords in each group and also ensure inclusivity of both groups together
 we would need to use both `AND` and `OR` operator
 

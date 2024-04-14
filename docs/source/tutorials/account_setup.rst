@@ -10,6 +10,7 @@ It will ask you for few details:
 * Username: should be alphanumeric and unique that will be used to login.
 * Email: provide you email address, this also must be unique.
 * Password: should be alphanumeric that will be used to login.
+
 .. image:: /images/tutorials/account/register.png
 
 After that, click on the yellow :guilabel:`Sign Up` button,

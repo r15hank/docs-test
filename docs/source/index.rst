@@ -10,13 +10,19 @@ that are relevant to their research survey. The tool automates various steps inv
 enabling researchers to efficiently gather and categorize relevant research papers for their interdisciplinary studies.
 `SysReview <https://sysrev.cs.binghamton.edu/sysreview>`_ can be accessed from any web browser that supports javascript.
 
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
 .. note::
 
    This project is under active development.
+
+.. toctree::
+   :hidden:
+   :caption: Information
+   :name: informationtoc
+   :maxdepth: 10
+
+   info/index
+   info/architecture
+   info/datasources
 
 .. toctree::
    :hidden:
@@ -38,7 +44,7 @@ how to :ref:`installation` the project.
 
 .. toctree::
    :hidden:
-   :caption: About
+   :caption: Reference
    :name: abouttoc
    :maxdepth: 10
 
